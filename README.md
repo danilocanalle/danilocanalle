@@ -2,6 +2,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-v19.9.0-green.svg)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
