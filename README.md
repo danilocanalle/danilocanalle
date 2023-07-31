@@ -40,3 +40,5 @@ Sou apaixonado por tecnologia e viagens 🔍🌎💻
 > "If not us, who? If not now, when?"
 
 Build the NOW! 🚀
+
+1
